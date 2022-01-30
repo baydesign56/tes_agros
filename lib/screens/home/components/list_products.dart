@@ -66,7 +66,7 @@ class _ListProductsState extends State<ListProducts> {
                                     crossAxisAlignment:
                                         CrossAxisAlignment.center,
                                     children: [
-                                      Text("Terjadi kesalahan "),
+                                      const Text("Terjadi kesalahan "),
                                       SizedBox(
                                         width: defauldPadding,
                                       ),
